@@ -30,6 +30,6 @@ public class Ejercicio1_11 {
 
         total2= (float) (MANZANAS_PRECIO*manzanas+PERAS_PRECIO*peras);
 
-        System.out.println("En el primer trimestre has ganado " + total1 + "€, en el segundo semestre " + total2 + "€ y en total " + (total1 + total2));
+        System.out.println("En el primer trimestre has ganado " + total1 + "€, en el segundo semestre " + total2 + "€ y en total " + (total1 + total2) + "€");
     }
 }
