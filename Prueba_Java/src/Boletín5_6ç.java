@@ -8,8 +8,8 @@ public class Boletín5_6ç {
         System.out.println(acumulador);
 
         System.out.println("La multiplicación de los números impares del 1 al 20 es:");
-        float acumulador2=1;
-        for (float num2 = 0; num2 <10; num2++) {
+        long acumulador2=1;
+        for (long num2 = 0; num2 <10; num2++) {
             acumulador2=acumulador2*(2* num2 +1);
         }
         System.out.println(acumulador2);
