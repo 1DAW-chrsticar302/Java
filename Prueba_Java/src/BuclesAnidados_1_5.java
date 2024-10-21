@@ -7,9 +7,9 @@ public class BuclesAnidados_1_5 {
         System.out.println("Dime dos números y te pintaré las tablas de multiplicar entre ellos");
         num_ini= consola.nextInt();
         num_fin= consola.nextInt();
-        int diferencia=(num_fin-num_fin);
+        int diferencia=(num_fin-num_ini);
 
-        for (int raws=1;raws<=diferencia;raws++) {
+        for (int raws=1;raws<=diferencia+1;raws++) {
             m=0;
             for (int cols=1;cols<=11;cols++) {
                 System.out.print(num_ini+" x "+m+" = "+(num_ini*m)+" | ");
