@@ -1,4 +1,4 @@
-public class BucleAnidado_1_2 {
+public class BuclesAnidados_1_2 {
     public static void main (String[]args) {
         for(int raws=5;raws>=1;raws--) {
             for (int cols=5;cols>=1;cols--) {

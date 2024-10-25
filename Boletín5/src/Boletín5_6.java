@@ -1,4 +1,4 @@
-public class Boletín5_6ç {
+public class Boletín5_6 {
     public static void main (String[]args) {
         System.out.println("La suma de los números pares del 1 al 20 es:");
         int acumulador=0;
